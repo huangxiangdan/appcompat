@@ -1,0 +1,16 @@
+.DS_Store
+.apt_generated
+bin
+gen
+proguard
+.project
+.settings
+local.properties
+kecheng/reports
+.metadata
+TDDSource
+TDDTest
+KechengTDD/junit
+KechengTDD/emma
+KechengTDD/outinstr
+android.jar
